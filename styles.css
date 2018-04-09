@@ -1,0 +1,39 @@
+*{
+    margin: 0; padding: 0;
+}
+.body{
+    font-family: 'Oxygen', sans-serif;
+}
+.banner{
+    width: auto;
+    height: 70px;
+    padding: 20px;
+    background: #44C7C7;
+    margin: 0;
+}
+img.logo{
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    float: left;
+}
+h1.logo{
+    float: left;
+    margin: 15px 0 0 15px;
+    color: white;
+}
+.date{
+    width: 120px;
+    height: 20px;
+    padding: 20px;
+    float: right;
+    text-align: right;
+    font-weight: bolder;
+}
+.time{
+    text-align: center;
+    padding: 50px;
+}
+h1.time{
+    font-size: 160px;;
+}
